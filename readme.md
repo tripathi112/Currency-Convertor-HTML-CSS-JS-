@@ -2,7 +2,7 @@
 
 A simple and responsive Currency Converter web application built using HTML, CSS, and JavaScript. It allows users to convert amounts from one currency to another using real-time exchange rates fetched from a public API.
 
-### Live Demo:
+### Live Demo: https://currency-convertor-html-css-js.vercel.app/
 ![Screenshot 2025-05-30 135559](https://github.com/user-attachments/assets/81367ff5-76eb-4b02-b56f-c9b3d39571fa)
 
 
